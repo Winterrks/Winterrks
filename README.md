@@ -1,6 +1,6 @@
 # ❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️
 
-20 years old. i study game development, i build stuff nobody asked for, and i don't need a title for it 🌨️
+hey, i'm 20 and i study game development. i mess around with making stuff and mostly just have fun with it 🌨️
 
 ## ⛸️ school
 
