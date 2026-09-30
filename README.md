@@ -1,4 +1,4 @@
-# ❄️ hi, i'm Winterrks
+# ❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️
 
 20 years old, studying game development at IADE. still a beginner, still figuring stuff out, and honestly not trying to give myself a fancy title yet 🌨️
 
