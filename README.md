@@ -1,5 +1,5 @@
 ```
-# ❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️  
+# Title goes here~~  
                                                             ❄️
 hey, i'm 20 and i love using ai 🌨️      ❄️                    
 
@@ -29,6 +29,6 @@ i'm **winterrks** everywhere:
 - WeChat: `winterrks`                                                                          ❄️
 - GitHub: [winterrks](https://github.com/winterrks)        ❄️         ❄️
 
----
+
                                               ❄️                      ❄️            
 ❄️ *stay frosty*
