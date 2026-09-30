@@ -38,4 +38,4 @@ i'm **winterrks** everywhere:
 
 ---
 
-❄️ *still learning, thanks for stopping by*
+❄️ *stay frosty*
