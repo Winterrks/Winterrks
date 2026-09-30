@@ -1,6 +1,6 @@
 # ❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️
 
-20 years old, studying game development. still a beginner, still figuring stuff out, and honestly not trying to give myself a fancy title yet 🌨️
+20 years old. i study game development, i build stuff nobody asked for, and i don't need a title for it 🌨️
 
 ## ⛸️ school
 
