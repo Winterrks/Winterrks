@@ -1,8 +1,10 @@
 ```
-# Title goes here~~  
+# Title goes here~~                ❄️            ❄️                          ❄️
+                            ❄️            ❄️                            ❄️                    ❄️
                                                             ❄️
-hey, i'm 20 and i love using ai 🌨️      ❄️                    
+hey, i'm 20 and i love using ai 🌨️      ❄️                                            ❄️
 
+                                                ❄️  
 ## 🏔️ projects              ❄️                                              ❄️
                                                           ❄️                                  ❄️
 | project | |                       ❄️                                       ❄️
