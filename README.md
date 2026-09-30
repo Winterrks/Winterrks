@@ -1,10 +1,10 @@
 # ❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️
 
-20 years old, studying game development at IADE. still a beginner, still figuring stuff out, and honestly not trying to give myself a fancy title yet 🌨️
+20 years old, studying game development. still a beginner, still figuring stuff out, and honestly not trying to give myself a fancy title yet 🌨️
 
 ## ⛸️ school
 
-i study game development at IADE. it kinda sucks, not gonna lie. last semester we made a game in SDL3 and now we're starting to learn Unity. most of what i actually know i'm picking up on my own by building things.
+i study game development. it kinda sucks, not gonna lie. last semester we made a game in SDL3 and now we're starting to learn Unity. most of what i actually know i'm picking up on my own by building things.
 
 ## ⛄ what i'm working on right now
 
