@@ -15,10 +15,10 @@ i study game development at IADE. it kinda sucks, not gonna lie. last semester w
 
 | project | |
 | --- | --- |
-| [winter](https://github.com/yanlinglabs/winter) | what i'm building rn |
+| [winter](https://github.com/yanlinglabs/winter) | my little baby |
 | [telepathy](https://github.com/winterrks/telepathy) | one of my repos |
-| [discord-waifus](https://github.com/waifucave/discord-waifus) | discord stuff |
-| [video-extract-mcp](https://github.com/yanlinglabs/video-extract-mcp) | video extraction tool (MCP) |
+| [discord-waifus](https://github.com/waifucave/discord-waifus) | self speaking waifus for your server |
+| [video-extract-mcp](https://github.com/yanlinglabs/video-extract-mcp) | I wanted to download WeChat videos… |
 
 ## 💠 games i'm into
 
