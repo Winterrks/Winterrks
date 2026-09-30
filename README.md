@@ -33,7 +33,7 @@ i'm **winterrks** everywhere:                                ❄️             
                                            ❄️      ❄️               ❄️  
 - Discord: winterrks      ❄️
 - X: @winterrks               ❄️               ❄️               ❄️                 ❄️  
-- WeChat: `winterrks                                                                          ❄️
+- WeChat: winterrks                                                                            ❄️
 - GitHub: [winterrks](https://github.com/winterrks)        ❄️         ❄️❄️
                                                                       ❄️❄️❄️❄️    ❄️          
                                                                   ❄️❄️❄️❄️
