@@ -2,7 +2,7 @@
 
 20 years old, studying game development at IADE. still a beginner, still figuring stuff out, and honestly not trying to give myself a fancy title yet 🌨️
 
-## 🩵 school
+## ⛸️ school
 
 i study game development at IADE. it kinda sucks, not gonna lie. last semester we made a game in SDL3 and now we're starting to learn Unity. most of what i actually know i'm picking up on my own by building things.
 
@@ -22,9 +22,9 @@ i study game development at IADE. it kinda sucks, not gonna lie. last semester w
 
 ## 💠 games i'm into
 
-- **Wuthering Waves** ❄️ my favorite right now
+- **Wuwa** ❄️ my favorite right now
 - **Punishing: Gray Raven** 🌬️ right behind it
-- **Genshin Impact** ☃️ for when i want to chill
+- **Genshin** ☃️ for when i want to chill
 - **Fortnite** and **CODM** 🥶 when i want to play something more competitive
 
 ## ❄️ find me
