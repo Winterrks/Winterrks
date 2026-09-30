@@ -1,6 +1,6 @@
 # ❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️
 
-hey, i'm 20 and i study game development. i mess around with making stuff and mostly just have fun with it 🌨️
+hey, i'm 20 and i love using ai 🌨️
 
 ## ⛸️ school
 
