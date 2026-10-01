@@ -2,7 +2,7 @@
 # Title goes here ~                ❄️            ❄️                          ❄️
                             ❄️            ❄️                            ❄️                    ❄️
                                                             ❄️
-hey, i'm 20 and i love using ai 🌨️      ❄️                                            ❄️
+hey, i'm 20 and i love playing with ai 🌨️    ❄️                                            ❄️
 
                                                 ❄️  
 ## 🏔️ projects              ❄️                                              ❄️
